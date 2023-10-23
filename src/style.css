@@ -1,1 +1,14 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.card {
+  width: 200px;
+  height: 300px;
+}
+
+.card-footer {
+  transform: rotate(180deg);
+}
+
+body {
+  background-color: green;
+}
